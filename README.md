@@ -12,4 +12,6 @@ URL Shortener Application is build upon:
 ### How to Run the Project
 The project is based on flask framework. So, clone the project from github and download the flask, python, SQL in the terminal and simply run command ($flask run). You can also run this project in PyCharm CE. 
 
+Use this command to install prerequisites
+`pip3 install -r requirements.txt`
 #### ![image](/Users/manohardas/PycharmProjects/url_shortener/home_page.png)
